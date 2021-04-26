@@ -1,0 +1,6 @@
+README.md
+setup.py
+global_weekday_DetegiCE.egg-info/PKG-INFO
+global_weekday_DetegiCE.egg-info/SOURCES.txt
+global_weekday_DetegiCE.egg-info/dependency_links.txt
+global_weekday_DetegiCE.egg-info/top_level.txt

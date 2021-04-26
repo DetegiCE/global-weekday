@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: global-weekday-DetegiCE
+Version: 1.0.0
+Summary: Convert date to weekday in global languages
+Home-page: https://github.com/DetegiCE/global-weekday
+Author: DetegiCe
+Author-email: martino1103@gmail.com
+License: UNKNOWN
+Description: # Global Weekday
+        
+        Convert date to weekday in global languages!
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.5
+Description-Content-Type: text/markdown
